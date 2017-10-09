@@ -1,0 +1,10 @@
+main: hash.cache.deathtag.Main
+name: Death Tag
+version: 1.0
+author: HashCache
+description: A plugin that does things and stuff
+commands:
+  tag:
+    description: does stuff depending on things
+    permission: tag
+    permission-message: You don't have permission to do that ;^>

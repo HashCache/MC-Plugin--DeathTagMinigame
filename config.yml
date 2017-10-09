@@ -1,0 +1,5 @@
+# Death Tag Minigame by HashCache v1.0
+RoundTime: 20 
+# How long each round is --the timer announces every modulus of 5 --do NOT change this mid-game
+ChatTag: '&0[&4DeathTag&0]&7 ' 
+# What goes before each announcement
